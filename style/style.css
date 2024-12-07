@@ -13,10 +13,6 @@ display: flex;
 justify-content:space-around;
 }
 
-#nav-link {
-color: white;
-text-decoration: none;
-}
 
 #p {
 color:yellow;
